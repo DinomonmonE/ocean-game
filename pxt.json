@@ -1,5 +1,6 @@
 {
-    "name": "Ocean Game",
+    "name": "Ocean Game Hard Mode",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
